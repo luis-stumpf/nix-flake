@@ -1,0 +1,8 @@
+
+
+[
+./rofi.nix
+./waybar.nix
+]
+
+
